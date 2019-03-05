@@ -2,7 +2,7 @@
 /_gh_pages/
 /site/.jekyll-metadata
 /site/docs/**/dist/
-package-lock.json
+/package-lock.json
 # Ignore ruby/bundler files
 /.bundle/
 /vendor/
