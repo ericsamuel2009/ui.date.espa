@@ -13,4 +13,4 @@
 * date.js
 * bootstrap.min.js
 
-en el repositorio El archivo que realizara la traduccion esta en: ``bower_modules\jquery-ui-espa\jquery-ui.min.js``
+la libreria que realizara la traduccion esta en: ``bower_modules\jquery-ui-espa\jquery-ui.min.js``
